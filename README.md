@@ -1,16 +1,56 @@
-# dialed
+# DIALED ☕
 
-A new Flutter project.
+> A personal coffee journal and brew tracking app built with Flutter.
 
-## Getting Started
+DIALED is a mobile app designed for coffee lovers who want to record, organize, and revisit their coffee brewing experiences.
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<!-- Add your app screenshots here -->
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ☕ Log coffee brews
+- 📖 Maintain a personal coffee journal
+- 🔍 Search your coffee collection
+- 🏷️ Track coffees and roasters
+- 👤 Personal profile
+- 📊 View your brewing history
+- 📝 Record brewing details and methods
+- 💾 Local data persistence
+
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Android**
+- **Local Storage**
+- **Material UI**
+
+## 📲 Download
+
+The latest Android APK is available from the GitHub Releases page.
+
+### Android
+
+Download the latest APK:
+
+**[DIALED v1.0.0](../../releases/latest)**
+
+> DIALED is currently available for Android. iOS support is not included in this release.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Android Studio or VS Code
+- Android device or emulator
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/balchandani23/dialed.git
